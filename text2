@@ -4,7 +4,11 @@ using namespace std;
 
 int main() 
 { 
+    // This is a comment
     cout << "Hello, world!" << endl;
+    cout << "I am learning C++";
+    int myNum = 15;
+    cout << myNum;
     system("pause");
     return 0; 
 }
